@@ -9,4 +9,13 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  -- "loctvl842/monokai-pro.nvim",
+  --   config = function()
+  --     require("monokai-pro").setup {
+  --     styles = {
+  --       keyword = { italics = true},
+  --       tag_attribute = { italic = true }
+  --     },
+  --   }
+  --   end
 }
